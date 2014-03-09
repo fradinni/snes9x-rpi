@@ -6,5 +6,4 @@ mkdir release
 mv src/snes9x release/
 mv src/snes9x.gui release/
 mv src/snes9x.cfg release/
-cp -r src/roms release/
 cp -r src/skins release/
